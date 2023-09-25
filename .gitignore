@@ -13,3 +13,8 @@
 
 # shadow-cljs cache, port files
 /.shadow-cljs/
+
+# ignore runtime cache
+/.calva/
+/.clj-kondo/
+/.cpcache/
